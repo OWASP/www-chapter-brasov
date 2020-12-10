@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [IIaca Lucian](mailto:iican.lucian@owasp.org)
+* [Titus Balabn](mailto:titus.balan@owasp.org)
