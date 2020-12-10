@@ -1,3 +1,3 @@
 ### Leaders
-* [IIaca Lucian](mailto:iican.lucian@owasp.org)
+* [Ilac Lucian](mailto:ilca.lucian@owasp.org)
 * [Titus Balabn](mailto:titus.balan@owasp.org)
