@@ -1,5 +1,5 @@
 ### Brasov Information
-* Provide Group Information
+* Work in progress..
 
 ### Social Links
 * [Meetup](#)
