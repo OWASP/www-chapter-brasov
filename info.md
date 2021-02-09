@@ -1,7 +1,7 @@
-### OWASP Chapter Information ###
-The OWASP® Foundation works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
+### Meetings ###
+OWASP Brasov Chapter meetings are posted on our MeetUp Page:
 
-### Social Links
-* [Meetup](https://www.meetup.com/owasp-brasov/)
+Please visit https://www.meetup.com/owasp-brasov/ OWASP Brasov MeetUp site for Brasov Chapter event information.
+
 
 
