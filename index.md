@@ -2,44 +2,53 @@
 
 layout: col-sidebar
 title: OWASP Brasov
-tags: example-tag
+tags: brasov
+level: 4
 region: Europe
+meetup-group: OWASP-Brasov-Meetup
+country: Romania
+postal-code: 500429
 
 ---
 
-<div style='color:red;'>
 
-Welcome to the OWASP Brasov chapter homepage. Work in progress.
+### Welcome to OWASP Brasov Chapter ###
 
-</div>
+Welcome to the Cambridge chapter homepage. The chapter leader is <a href="mailto:ilca.lucian@owasp.org">ilca.lucian@owasp.org</a> and <a href="mailto:titus.balan@owasp.org">Phd. Titus Balan</a>. All events are often hosted by the OWASP (Open Web Application Security Project) Brasov Chapter.
 
+For updates, events, membership; please visit our meet up page: <a href="https://www.meetup.com/owasp-brasov/">OWASP Brasov</a>
 
+Join our <a href="https://www.meetup.com/owasp-brasov/">MeetUp</a>
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+### Participation ###
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
-{front matter for this file}
+Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-....
+### News ###
+- The usual location for meetings is <a href="https://www.google.com/maps/place/Faculty+of+Electrical+Engineering+and+Computer+Science/@45.6504219,25.589564,12z/data=!4m8!1m2!2m1!1sFaculty+of+Electrical+Engineering+and+Computer+Science!3m4!1s0x40b35b84d3da17b3:0x475bfde1216a2f6e!8m2!3d45.6554836!4d25.5992711">Transilvania University of Brasov.</a>
+- Everyone is welcome to join us at our chapter meetings.
 
-```
-{info.md}
+Chapter Supporters
+----------------
+The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
 
-{leaders.md}
+<a href="https://www.atos.net"><img src="assets/images/atos.png alt="Atos"/></a>
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+</td>
+<td>
 
--->
+<a href="https://www.unitbv.ro"><img src="assets/images/unitbv.png" alt="Unitbv"/></a>
+
+</td>
+<td>
+  <a href="https://www.siemens.com"><img src="assets/images/siemens.jpg" alt="Siemens"/></a>
+</td>
+</tr>
+</table>
