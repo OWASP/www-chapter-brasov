@@ -56,5 +56,8 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <td>
   <a href="https://www.siemens.com"><img src="assets/images/siemens.png" alt="Siemens"/></a>
 </td>
+<td>
+  <a href="https://www.metropolabrasov.ro/"><img src="assets/images/unnamed.jpg" alt="Metropolitan Brasov"/></a>
+</td>
 </tr>
 </table>
