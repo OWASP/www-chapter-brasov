@@ -39,7 +39,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 <td>
 
-<a href="https://www.atos.net"><img src="assets/images/atos.png alt="Atos"/></a>
+<a href="https://www.atos.net"><img src="assets/images/atos.png" alt="Atos"/></a>
 
 </td>
 <td>
@@ -48,7 +48,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 
 </td>
 <td>
-  <a href="https://www.siemens.com"><img src="assets/images/siemens.jpg" alt="Siemens"/></a>
+  <a href="https://www.siemens.com"><img src="assets/images/siemens.png" alt="Siemens"/></a>
 </td>
 </tr>
 </table>
