@@ -14,7 +14,7 @@ postal-code: 500429
 
 ### Welcome to OWASP Brasov Chapter ###
 
-Welcome to the Brasov Chapter homepage. The chapter leaders is <a href="mailto:ilca.lucian@owasp.org">Ilca Lucian</a> and <a href="mailto:titus.balan@owasp.org">Titus Balan</a>. All events are often hosted by the OWASP (Open Web Application Security Project) Brasov Chapter.
+Welcome to the Brasov Chapter homepage. The chapter leaders are <a href="mailto:ilca.lucian@owasp.org">Ilca Lucian</a> and <a href="mailto:titus.balan@owasp.org">Titus Balan</a>. All events are often hosted by the OWASP (Open Web Application Security Project) Brasov Chapter.
 
 For updates, events, membership; please visit our meet up page: <a href="https://www.meetup.com/owasp-brasov/">OWASP Brasov</a>
 
