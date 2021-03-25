@@ -16,9 +16,9 @@ postal-code: 500429
 
 Welcome to the Brasov Chapter homepage. The chapter leaders are <a href="mailto:ilca.lucian@owasp.org">Ilca Lucian</a> and <a href="mailto:titus.balan@owasp.org">Titus Balan</a>. All events are often hosted by the OWASP (Open Web Application Security Project) Brasov Chapter.
 
-For updates, events, membership; please visit our meet up page:OWASP Brasov</a>
+For updates, events, membership; please visit our meet up page:OWASP Brasov
 
-Join our MeetUp</a>
+Join our MeetUp
 
 ### Participation ###
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
@@ -45,7 +45,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 <td>
 
-<a href="https://www.atos.net"><img src="assets/images/atos.png" alt="Atos"/></a>
+<a href="#"><img src="assets/images/" alt="Atos"/></a>
 
 </td>
 <td>
