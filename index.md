@@ -45,7 +45,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <tr>
 <td>
 
-<a href="#"><img src="assets/images/" alt="Atos"/></a>
+<!-- <a href="#"><img src="assets/images/" alt=""/></a> -->
 
 </td>
 <td>
