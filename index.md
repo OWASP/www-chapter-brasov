@@ -33,13 +33,13 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ### Call For Speakers ###
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Brasov Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
 
 `ilca.lucian (at) owasp.org`
 
 * Chapter Supporters *
 ----------------
-The following are the list of OWASP Corporate Members who have generously aligned themselves with the London chapter, therefore contributing funds to our chapter:
+The following are the list of OWASP Corporate Members who have generously aligned themselves with the Brasov chapter, therefore contributing funds to our chapter:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
