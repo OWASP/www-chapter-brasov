@@ -38,10 +38,7 @@ For updates, events, membership; please visit our meet up page.
   <a href="#">TBA</a>
 </td>
 </tr>
-</table>
-
-
-<table cellpadding="15" cellspacing="0">
+  
 <tr>
 <td>
 <a href="#">TBA</a> 
@@ -55,8 +52,13 @@ For updates, events, membership; please visit our meet up page.
 <td>
   <a href="#">TBA</a>
 </td>
-</tr>
+</tr>  
+  
+  
 </table>
+
+
+
 
 <br>
 
