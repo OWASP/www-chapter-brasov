@@ -19,12 +19,9 @@ Welcome to the Brasov Chapter homepage. The chapter leaders are <a href="mailto:
 For updates, events, membership; please visit our meet up page.
 
 <br>
-<p>
-
 ### OWASP AppSec Brasov [1] ###
-
 [OWASP AppSec Brasov [1] - 11 A.M / 23 April 2021](https://www.meetup.com/owasp-brasov/events/277346025/)
-
+<br>
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
