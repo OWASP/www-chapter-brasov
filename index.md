@@ -31,11 +31,24 @@ For updates, events, membership; please visit our meet up page.
 <td>
 <a href="#">TBA</a>
 </td>
+</tr>
+  
+<tr>
 <td>
-  <a href="#">TBA</a>
+<a href="#">TBA</a> 
 </td>
 <td>
-  <a href="#">TBA</a>
+<a href="#">TBA</a>
+</td>
+</tr>  
+
+
+<tr>
+<td>
+<a href="#">TBA</a> 
+</td>
+<td>
+<a href="#">TBA</a>
 </td>
 </tr>
   
@@ -46,14 +59,7 @@ For updates, events, membership; please visit our meet up page.
 <td>
 <a href="#">TBA</a>
 </td>
-<td>
-  <a href="#">TBA</a>
-</td>
-<td>
-  <a href="#">TBA</a>
-</td>
 </tr>  
-  
   
 </table>
 
