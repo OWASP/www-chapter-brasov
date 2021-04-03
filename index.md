@@ -24,9 +24,10 @@ For updates, events, membership; please visit our meet up page.
 [OWASP AppSec Brasov [1] - 11 A.M / 23 April 2021](https://www.meetup.com/owasp-brasov/events/277346025/)
 <br>
 <table cellpadding="35" cellspacing="0">
+
 <tr>
 <td>
-<a href="#">TBA</a> 
+<a href="#">Cosmin Radu</a> 
 </td>
 <td>
 <a href="#">TBA</a>
@@ -35,7 +36,7 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
-<a href="#">TBA</a> 
+<a href="#">Mihai Dancaescu</a> 
 </td>
 <td>
 <a href="#">TBA</a>
@@ -45,7 +46,7 @@ For updates, events, membership; please visit our meet up page.
 
 <tr>
 <td>
-<a href="#">TBA</a> 
+<a href="#">Vlad Toie</a> 
 </td>
 <td>
 <a href="#">TBA</a>
@@ -54,13 +55,22 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
-<a href="#">TBA</a> 
+<a href="#">Bogdan-Costel Irimia</a> 
 </td>
 <td>
 <a href="#">TBA</a>
 </td>
 </tr>  
-  
+
+<tr>
+<td>
+<a href="#">Andrei Dumbrava</a> 
+</td>
+<td>
+<a href="#">TBA</a>
+</td>
+</tr>  
+
 </table>
 
 
