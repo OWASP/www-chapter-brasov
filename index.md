@@ -28,7 +28,9 @@ For updates, events, membership; please visit our meet up page.
 <tr>
 
 <td>
+  <br>
     <b>Cosmin Radu</b>
+  <br>
   <br>
   <a><b>Container Insecurities</b></a>
   <br>
@@ -39,33 +41,34 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
-<a href="#">
   <b>Mihai Dancaescu</b>
+  <br>
   <br>
   <a><b>Attacking JSON Web Tokens</b></a>
   <br>
   <br>
   <a>JSON Web Tokens are getting more and more popular each day - they are simple to use, easy to understand, and mostly secure. However, a lot of web developers don't use JWT parsers correctly or, even worse, develop new ones from scratch. This presentation will cover some of the attacks that may be used against applications that rely on JWT tokens.</a> 
- </a>
+
 </td>
 </tr>
 
 <tr>  
 <td>
-<a href="#">
   <b>Vlad Toie</b>
+  <br>
   <br>
   <a><b>Stealing credentials via NTLMv2</b></a>
   <br>
   <br>
   <a>NTLMv2, the challenge-response authentication protocol, hacked via LLMNR poisoning(man in the middle attack). NTLM authentication is the de-facto standard in corporate networks running Windows. There are a plethora of well-understood local attacks that take advantage of the way Windows perform automatic NTLM authentication, and abusing this feature is undoubtedly on the playbook of every penetration tester and red teamer.</a> 
- </a>
+
 </td>
 </tr>
   
 <tr>
 <td>
   <b>Bogdan-Costel Irimia</b>
+  <br>
   <br>
   <a><b>Penetration testing in healthcare environments</b></a>
   <br>
@@ -79,18 +82,14 @@ For updates, events, membership; please visit our meet up page.
 <td>
   <b>Andrei Dumbrava</b>
   <br>
+  <br>
   <a><b>Pros and cons of identity-based security of applications</b></a>
   <br>
   <br>
   <a>...</a>
 </td>
 </tr>  
-
 </table>
-
-
-
-
 <br>
 
   
