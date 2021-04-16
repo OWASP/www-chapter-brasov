@@ -58,15 +58,18 @@ For updates, events, membership; please visit our meet up page.
  </a>
 </td>
 </tr>  
-
-
 <tr>
 <td>
-<a href="#">Vlad Toie</a> 
+<a href="#"></a> 
+</td>
+<td>
+<a href="#">Vlad Toie</a>
 </td>
 <td>
 <a href="#">
-   <a>Stealing credentials via NTLMv2</a>
+  <a><b>Stealing credentials via NTLMv2</b></a>
+  <br>
+  <br>
   <a>NTLMv2, the challenge-response authentication protocol, hacked via LLMNR poisoning(man in the middle attack). NTLM authentication is the de-facto standard in corporate networks running Windows. There are a plethora of well-understood local attacks that take advantage of the way Windows perform automatic NTLM authentication, and abusing this feature is undoubtedly on the playbook of every penetration tester and red teamer.</a> 
  </a>
 </td>
@@ -74,10 +77,15 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
+<a href="#"></a> 
+</td>
+<td>
 <a href="#">Bogdan-Costel Irimia</a> 
 </td>
 <td>
-  <a href="#">Penetration testing in healthcare environments</a>
+  <a><b>Penetration testing in healthcare environments</b></a>
+  <br>
+  <br>
 <a>Health and life science organizations invest significant resources into cybersecurity as the risk of failure involves highly sensitive data that, if compromised, could not only affect staff and patient privacy but, potentially, the physical safety of patients too. Penetration testing is simply an approach in which analysts identify potential weaknesses and attempt to exploit vulnerabilities. Sometimes providing a fresh set of eyes can often identify previously undetected issues.</a>   
 </a>
 </td>
@@ -85,10 +93,16 @@ For updates, events, membership; please visit our meet up page.
 
 <tr>
 <td>
+<a href="#"></a> 
+</td>
+<td>
 <a href="#">Andrei Dumbrava</a> 
 </td>
 <td>
-<a href="#">TBA</a>
+  <a><b>Pros and cons of identity-based security of applications</b></a>
+  <br>
+  <br>
+  <a>...</a>
 </td>
 </tr>  
 
