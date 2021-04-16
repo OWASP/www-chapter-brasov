@@ -31,8 +31,8 @@ For updates, events, membership; please visit our meet up page.
 </td>
 <td>
 <a href="#">
-  <p>Container Insecurities</p>
-  <p>Docker is a popular container technology and has been very well accepted by industries across the world. It is used in production as well as UAT environments. However, with every new layer in the technology stack, a number of security issues can be introduced either because of loose configurations, insecure code or a combination of both. </p>
+  <a>Container Insecurities</a>
+  <a>Docker is a popular container technology and has been very well accepted by industries across the world. It is used in production as well as UAT environments. However, with every new layer in the technology stack, a number of security issues can be introduced either because of loose configurations, insecure code or a combination of both. </a>
  </a>
 </td>
 </tr>
@@ -43,8 +43,8 @@ For updates, events, membership; please visit our meet up page.
 </td>
 <td>
 <a href="#">
-  <p>Attacking JSON Web Tokens</p>
-  <p>JSON Web Tokens are getting more and more popular each day - they are simple to use, easy to understand, and mostly secure. However, a lot of web developers don't use JWT parsers correctly or, even worse, develop new ones from scratch. This presentation will cover some of the attacks that may be used against applications that rely on JWT tokens.</p> 
+  <a>Attacking JSON Web Tokens</a>
+  <a>JSON Web Tokens are getting more and more popular each day - they are simple to use, easy to understand, and mostly secure. However, a lot of web developers don't use JWT parsers correctly or, even worse, develop new ones from scratch. This presentation will cover some of the attacks that may be used against applications that rely on JWT tokens.</a> 
  </a>
 </td>
 </tr>  
@@ -56,8 +56,8 @@ For updates, events, membership; please visit our meet up page.
 </td>
 <td>
 <a href="#">
-   <p>Stealing credentials via NTLMv2</p>
-  <p>NTLMv2, the challenge-response authentication protocol, hacked via LLMNR poisoning(man in the middle attack). NTLM authentication is the de-facto standard in corporate networks running Windows. There are a plethora of well-understood local attacks that take advantage of the way Windows perform automatic NTLM authentication, and abusing this feature is undoubtedly on the playbook of every penetration tester and red teamer.</p> 
+   <a>Stealing credentials via NTLMv2</a>
+  <a>NTLMv2, the challenge-response authentication protocol, hacked via LLMNR poisoning(man in the middle attack). NTLM authentication is the de-facto standard in corporate networks running Windows. There are a plethora of well-understood local attacks that take advantage of the way Windows perform automatic NTLM authentication, and abusing this feature is undoubtedly on the playbook of every penetration tester and red teamer.</a> 
  </a>
 </td>
 </tr>
@@ -67,9 +67,8 @@ For updates, events, membership; please visit our meet up page.
 <a href="#">Bogdan-Costel Irimia</a> 
 </td>
 <td>
-<a href="#">
-<p>Penetration testing in healthcare environments</p>
-<p>Health and life science organizations invest significant resources into cybersecurity as the risk of failure involves highly sensitive data that, if compromised, could not only affect staff and patient privacy but, potentially, the physical safety of patients too. Penetration testing is simply an approach in which analysts identify potential weaknesses and attempt to exploit vulnerabilities. Sometimes providing a fresh set of eyes can often identify previously undetected issues.</p>   
+  <a href="#">Penetration testing in healthcare environments</a>
+<a>Health and life science organizations invest significant resources into cybersecurity as the risk of failure involves highly sensitive data that, if compromised, could not only affect staff and patient privacy but, potentially, the physical safety of patients too. Penetration testing is simply an approach in which analysts identify potential weaknesses and attempt to exploit vulnerabilities. Sometimes providing a fresh set of eyes can often identify previously undetected issues.</a>   
 </a>
 </td>
 </tr>  
