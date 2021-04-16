@@ -23,11 +23,7 @@ For updates, events, membership; please visit our meet up page.
 ### OWASP AppSec Brasov [1] ###
 [OWASP AppSec Brasov [1] - 11 A.M / 23 April 2021](https://www.meetup.com/owasp-brasov/events/277346025/)
 <br>
-<table cellpadding="55" cellspacing="0">
-
-
-
-
+<table cellpadding="200" cellspacing="0">
 
 <tr>
 <td>
