@@ -72,7 +72,6 @@ For updates, events, membership; please visit our meet up page.
   <br>
   <br>
 <a>Health and life science organizations invest significant resources into cybersecurity as the risk of failure involves highly sensitive data that, if compromised, could not only affect staff and patient privacy but, potentially, the physical safety of patients too. Penetration testing is simply an approach in which analysts identify potential weaknesses and attempt to exploit vulnerabilities. Sometimes providing a fresh set of eyes can often identify previously undetected issues.</a>   
-</a>
 </td>
 </tr>  
 
