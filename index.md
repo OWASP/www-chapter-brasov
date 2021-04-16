@@ -44,11 +44,16 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
+<a href="#"></a>
+</td>
+<td>
 <a href="#">Mihai Dancaescu</a> 
 </td>
 <td>
 <a href="#">
-  <a>Attacking JSON Web Tokens</a>
+  <a><b>Attacking JSON Web Tokens</b></a>
+  <br>
+  <br>
   <a>JSON Web Tokens are getting more and more popular each day - they are simple to use, easy to understand, and mostly secure. However, a lot of web developers don't use JWT parsers correctly or, even worse, develop new ones from scratch. This presentation will cover some of the attacks that may be used against applications that rely on JWT tokens.</a> 
  </a>
 </td>
