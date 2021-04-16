@@ -30,23 +30,18 @@ For updates, events, membership; please visit our meet up page.
 <td>
     <b>Cosmin Radu</b>
   <br>
-  <br>
   <a><b>Container Insecurities</b></a>
   <br>
   <br>
 <a>Docker is a popular container technology and has been very well accepted by industries across the world. It is used in production as well as UAT environments. However, with every new layer in the technology stack, a number of security issues can be introduced either because of loose configurations, insecure code or a combination of both. </a>
-
 </td>
-  
 </tr>
   
 <tr>
-
-<td>
-<a href="#">Mihai Dancaescu</a> 
-</td>
 <td>
 <a href="#">
+  <b>Mihai Dancaescu</b>
+  <br>
   <a><b>Attacking JSON Web Tokens</b></a>
   <br>
   <br>
@@ -57,10 +52,9 @@ For updates, events, membership; please visit our meet up page.
 
 <tr>  
 <td>
-<a href="#">Vlad Toie</a>
-</td>
-<td>
 <a href="#">
+  <b>Vlad Toie</b>
+  <br>
   <a><b>Stealing credentials via NTLMv2</b></a>
   <br>
   <br>
@@ -71,9 +65,8 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
-<a href="#">Bogdan-Costel Irimia</a> 
-</td>
-<td>
+  <b>Bogdan-Costel Irimia</b>
+  <br>
   <a><b>Penetration testing in healthcare environments</b></a>
   <br>
   <br>
@@ -84,9 +77,8 @@ For updates, events, membership; please visit our meet up page.
 
 <tr>
 <td>
-<a href="#">Andrei Dumbrava</a> 
-</td>
-<td>
+  <b>Andrei Dumbrava</b>
+  <br>
   <a><b>Pros and cons of identity-based security of applications</b></a>
   <br>
   <br>
