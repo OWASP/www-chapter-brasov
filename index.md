@@ -27,12 +27,13 @@ For updates, events, membership; please visit our meet up page.
 
 <tr>
 <td>
-<a href="#">Cosmin Radu</a> 
+<a href="#"></a> 
 </td>
 <td>
-<a href="#">Container Insecurities</a>
+<a href="#">Cosmin Radu</a>
 </td>
 <td>
+  <a>Container Insecurities</a>
 <a>Docker is a popular container technology and has been very well accepted by industries across the world. It is used in production as well as UAT environments. However, with every new layer in the technology stack, a number of security issues can be introduced either because of loose configurations, insecure code or a combination of both. </a>
 
 </td>
