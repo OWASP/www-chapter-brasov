@@ -28,9 +28,9 @@ For updates, events, membership; please visit our meet up page.
 <tr>
 
 <td>
-<a href="#">Cosmin Radu</a>
-</td>
-<td>
+    <b>Cosmin Radu</b>
+  <br>
+  <br>
   <a><b>Container Insecurities</b></a>
   <br>
   <br>
