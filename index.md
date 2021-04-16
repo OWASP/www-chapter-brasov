@@ -30,7 +30,10 @@ For updates, events, membership; please visit our meet up page.
 <a href="#">Cosmin Radu</a> 
 </td>
 <td>
-<a href="#">TBA</a>
+<a href="#">
+  <p>Container Insecurities</p>
+  <p>...</p>
+ </a>
 </td>
 </tr>
   
