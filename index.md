@@ -26,9 +26,7 @@ For updates, events, membership; please visit our meet up page.
 <table cellpadding="200" cellspacing="0">
 
 <tr>
-<td>
-<a href="#"></a> 
-</td>
+
 <td>
 <a href="#">Cosmin Radu</a>
 </td>
@@ -43,9 +41,7 @@ For updates, events, membership; please visit our meet up page.
 </tr>
   
 <tr>
-<td>
-<a href="#"></a>
-</td>
+
 <td>
 <a href="#">Mihai Dancaescu</a> 
 </td>
@@ -59,11 +55,7 @@ For updates, events, membership; please visit our meet up page.
 </td>
 </tr>
 
-<tr>
-<td>
-<a href="#"></a> 
-</td>
-  
+<tr>  
 <td>
 <a href="#">Vlad Toie</a>
 </td>
@@ -79,9 +71,6 @@ For updates, events, membership; please visit our meet up page.
   
 <tr>
 <td>
-<a href="#"></a> 
-</td>
-<td>
 <a href="#">Bogdan-Costel Irimia</a> 
 </td>
 <td>
@@ -94,9 +83,6 @@ For updates, events, membership; please visit our meet up page.
 </tr>  
 
 <tr>
-<td>
-<a href="#"></a> 
-</td>
 <td>
 <a href="#">Andrei Dumbrava</a> 
 </td>
