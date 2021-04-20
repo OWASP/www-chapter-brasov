@@ -83,7 +83,7 @@ For updates, events, membership; please visit our meet up page.
   <a><b>Pros and cons of identity-based security of applications</b></a>
   <br>
   <br>
-  <a>...</a>
+  <a>IAM products provide IT managers with tools and technologies for controlling user access to critical information within an organization. This presentation will be related to identity-based security of applications</a>
 </td>
 </tr>  
 </table>
