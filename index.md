@@ -86,26 +86,6 @@ For updates, events, membership; please visit our meet up page.
   <a>IAM products provide IT managers with tools and technologies for controlling user access to critical information within an organization. This presentation will be related to identity-based security of applications</a>
 </td>
 </tr>  
-
-
-<tr>
-<td>
-  <b>Catalina Marcu</b>
-  <br>
-  <br>
-  <a><b>5G Network Security. General Aspects.</b></a>
-  <br>
-  <br>
-  <a>5G has designed in security controls to address many of the threats faced in today’s 4G/3G/2G networks. These controls include new mutual authentication capabilities, enhanced subscriber identity protection, and additional security mechanisms. 5G offers the mobile industry an unprecedented opportunity to uplift network and service security levels.
-
-</a>
-</td>
-</tr>  
-
-
-
-
-
 </table>
 <br>
 
