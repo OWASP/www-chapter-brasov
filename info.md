@@ -1,4 +1,6 @@
-### Conferences 2021
-* [OWASP AppSec Brasov #1](https://www.meetup.com/owasp-brasov/events/277346025/)
-<br>
-
+### Chapter Information 
+* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
+* [OWASP Policies and Procedures](https://owasp.org/www-policy/)
+*
+ ### Social Links
+* [Meetup[(https://www.meetup.com/owasp-brasov/)
