@@ -3,4 +3,4 @@
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
 
  ### Social Links
-* [Meetup[(https://www.meetup.com/owasp-brasov/)
+* [Meetup](https://www.meetup.com/owasp-brasov/)
