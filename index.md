@@ -105,7 +105,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Brasov Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
 
-`ilca.lucian (at) owasp.org`
+`titus.balan (at) owasp.org`
 
 * Chapter Supporters *
 ----------------
