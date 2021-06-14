@@ -5,7 +5,7 @@ title: OWASP Brasov
 tags: brasov
 level: 4
 region: Europe
-meetup-group: OWASP-Brasov-Meetup
+meetup-group: owasp-brasov
 country: Romania
 postal-code: 500429
 
@@ -16,9 +16,13 @@ postal-code: 500429
 
 Welcome to the Brasov Chapter homepage. The chapter leaders is <a href="mailto:titus.balan@owasp.org">Titus Balan</a>. All events are often hosted by the OWASP (Open Web Application Security Project) Brasov Chapter.
 
-For updates, events, membership; please visit our meet up page.
-<br>
-<br>  
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Brasov Meetup Group](https://www.meetup.com/owasp-brasov/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
   
 ### OWASP AppSec Brasov [1] ###
 [OWASP AppSec Brasov [1] - 11 A.M / 23 April 2021](https://www.meetup.com/owasp-brasov/events/277346025/)
